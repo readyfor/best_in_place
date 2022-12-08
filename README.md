@@ -2,9 +2,9 @@
 [![Build Status](https://secure.travis-ci.org/bernat/best_in_place.png)](http://travis-ci.org/bernat/best_in_place)
 **The Unobtrusive in Place editing solution**
 
-**NB**: For Rails >= 6.1 you can install the gem from this repository with:
+**NB**: For Rails >= 6.0 you can install the gem from this repository with:
 
-    gem "best_in_place", git: "https://github.com/mmotherwell/best_in_place"
+    gem "best_in_place", git: "https://github.com/readyfor/best_in_place", branch: "rails-6"
 
 ## Description
 
